@@ -28,6 +28,15 @@ These are some of the results of our Project
 #### With random variation
 <img src="./images/output/balloon_rand_out.png"  width="400px">
 
+### Tools used
+- Jupyter
+- OpenCV
+
+
+### Steps to run the code
+1. Take an input image
+2. Use `pointilism.ipynb` to generate the image.
+
 ## Reference
 <a href="https://web.stanford.edu/class/ee368/Project_Autumn_1516/Reports/Hong_Liu.pdf">
 Create Pointillism Art from Digital Images </a>
