@@ -38,5 +38,6 @@ These are some of the results of our Project
 2. Use `pointilism.ipynb` to generate the image.
 
 ## Reference
+The Solution is inspired by this paper: 
 <a href="https://web.stanford.edu/class/ee368/Project_Autumn_1516/Reports/Hong_Liu.pdf">
 Create Pointillism Art from Digital Images </a>
